@@ -4,6 +4,8 @@ using System.Diagnostics;
 
 namespace CadastroContatos.Controllers
 {
+    public class HomeController : Controller
+    {
 
         public IActionResult Index()
         {
