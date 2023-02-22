@@ -1,5 +1,9 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Apagar contato";
 }
+
+<div class="text-center">
+    <h3 class="display-4">Deseja realmente apagar este contato?</h3>
+    <button type="submit" class="btn btn-outline-warning">Apagar</button>
+    <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Index">Cancelar</a>
+</div>
