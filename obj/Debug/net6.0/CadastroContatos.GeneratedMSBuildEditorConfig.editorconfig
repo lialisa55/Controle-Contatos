@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\MODULO2\asp net\CadastroContatos
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/MODULO2/asp net/CadastroContatos/Views/Contato/Apagar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXIuY3NodG1s
+[G:/MODULO2/asp net/CadastroContatos/Views/Contato/ConfirmarApagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDb25maXJtYXJBcGFnYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/MODULO2/asp net/CadastroContatos/Views/Contato/Criar.cshtml]

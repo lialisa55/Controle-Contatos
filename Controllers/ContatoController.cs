@@ -16,7 +16,7 @@ namespace CadastroContatos.Controllers
         {
             return View();
         }
-        public IActionResult Apagar()
+        public IActionResult ConfirmarApagar()
         {
             return View();
         }
